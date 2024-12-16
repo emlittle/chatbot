@@ -1,2 +1,4 @@
 [theme]
 backgroundColor = '#0040ff'
+textColor = '#ffffff'
+font = 'Avenir Next'
